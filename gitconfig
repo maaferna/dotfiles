@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = mafernandezparra@gmail.com
-	name = cd ~/code/maaferna/dotfiles && zsh git_setup.sh
+	email = maaferna@gmail.com
+	name = marco fernandez
